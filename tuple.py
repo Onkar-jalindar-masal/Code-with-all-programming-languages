@@ -6,4 +6,4 @@ print(tuple2)
 
 
 output:- (10,20,30,40,50)
-         ("ram",10,"shyam",20,30)
+         ("ram",10,"shyam",20,30
